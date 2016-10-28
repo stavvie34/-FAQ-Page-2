@@ -342,7 +342,7 @@ div.full_width_inner {
         background-color: #7f868e;
     }
     *::after, *::before {
-        content: '' !important;
+        content: '';
     }
     *, *::after, *::before {
         -webkit-box-sizing: border-box;
